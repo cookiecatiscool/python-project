@@ -1,3 +1,4 @@
-.exe
-.app
-.bin
+# Ignore all .exe
+*.exe
+*.app
+*.bin

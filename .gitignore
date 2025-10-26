@@ -1,4 +1,4 @@
 # Ignore all .exe
-*.exe
-*.app
-*.bin
+# *.exe
+# *.app
+# *.bin
